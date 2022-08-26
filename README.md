@@ -1,6 +1,6 @@
 # React Feedback App
 
-This project goes over all of the fundamentals of React including...
+This project goes over all of the fundamentals of React including:
 
 - Components
 - JSX
